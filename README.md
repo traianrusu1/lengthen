@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Stretching/Workout timer with customizable in bewteen rest times
+Live version:
+https://lengthen.netlify.app/
 
 ## Available Scripts
 
